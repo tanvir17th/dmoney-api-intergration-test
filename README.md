@@ -206,7 +206,7 @@ npm test
 Run specific test file:
 
 ```bash
-npx mocha .\test\transaction.test.js
+npx mocha ./test/dmoney.spec.js
 ```
 
 ---
