@@ -82,10 +82,7 @@ DMoney Integration Testing
 
 The following screenshot demonstrates the successful execution of the automated dMoney API Integration Testing suite, including API requests, assertions, and transaction validation workflows.
 
-📷 **Execution Screenshot (Google Drive):**
-
-[https://drive.google.com/file/d/1CWOAuEdhuauc4KFLkiYPu1iTpEKu5mkZ/view?usp=sharing](https://drive.google.com/file/d/1CWOAuEdhuauc4KFLkiYPu1iTpEKu5mkZ/view?usp=sharing)
-
+![dMoney API Integration Test Execution] (./screenshots/testscreenshot.png)
 ---
 
 ## Business Workflow Covered
