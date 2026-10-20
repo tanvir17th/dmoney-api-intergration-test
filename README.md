@@ -84,7 +84,7 @@ The following screenshot demonstrates the successful execution of the automated 
 
 📷 **Execution Screenshot (Google Drive):**
 
-https://drive.google.com/file/d/1CWOAuEdhuauc4KFLkiYPu1iTpEKu5mkZ/view?usp=sharing
+[https://drive.google.com/file/d/1CWOAuEdhuauc4KFLkiYPu1iTpEKu5mkZ/view?usp=sharing](https://drive.google.com/file/d/1CWOAuEdhuauc4KFLkiYPu1iTpEKu5mkZ/view?usp=sharing)
 
 ---
 
