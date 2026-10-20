@@ -84,7 +84,7 @@ The following screenshot demonstrates the successful execution of the automated 
 
 📷 **Execution Screenshot (Google Drive):**
 
-[📷 View Execution Screenshot](https://drive.google.com/file/d/1CWOAuEdhuauc4KFLkiYPu1iTpEKu5mkZ/view?usp=sharing)
+![Newman Run Dashboard](./Screenshots/result.png)
 ---
 
 ## Business Workflow Covered
